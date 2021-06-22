@@ -1,0 +1,50 @@
+[
+  {
+    "img": "https://euromade.ru/images/cms/thumbs/01e09f7e55fbdde46de025d5ac14dcc134c541d6/313642b40f6d11eab7b6005056c00008_ba1d0d8f15e111eab7b6005056c00008.jpeg_800_800__100.jpeg",
+    "id_product": 124,
+    "product_name": "Принтер",
+    "price": 10000
+  },
+  {
+    "img": "https://cdn1.ozone.ru/s3/multimedia-o/6015829152.jpg",
+    "id_product": 457,
+    "product_name": "Геймпад",
+    "price": 4000
+  },
+  {
+    "img": "https://img.mvideo.ru/Pdb/30050916b.jpg",
+    "id_product": 332,
+    "product_name": "Системный блок",
+    "price": 50000
+  },
+  { 
+    "img": "https://img.mvideo.ru/Pdb/30029581b3.jpg",
+    "id_product": 114,
+    "product_name": "Монитор",
+    "price": 6000
+  },
+  { 
+    "img": "https://andpro.ru/upload/iblock/831/3f897e55_3eee_11e7_80d9_001e67d1aaeb_87dd832f_ab90_11e8_80ec_001e67d1aaeb.jpg",
+    "id_product": 147,
+    "product_name": "Мышка",
+    "price": 1000
+  },
+  { 
+    "img": "https://img.mvideo.ru/Pdb/50131627b.jpg",
+    "id_product": 220,
+    "product_name": "Клавиатура",
+    "price": 1000
+  },
+  { 
+    "img": "https://muzprosvet.su/pictures/product/big/38445_big.jpg",
+    "id_product": 223,
+    "product_name": "Наушники",
+    "price": 3000
+  },
+  { 
+    "img": "https://static.my-shop.ru/product/2/397/3963530.jpg",
+    "id_product": 223,
+    "product_name": "Видеокарта",
+    "price": 3000
+  }
+]
